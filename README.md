@@ -1,6 +1,6 @@
 # data-analysis
 
-Import json file containing fitted Arena data.
+Import json file containing fitted positioning data.
 
 Read data into a pandas dataframe, and rebuild to get rid of nested dictionaries, as they contain values on which we want to filter.
 
